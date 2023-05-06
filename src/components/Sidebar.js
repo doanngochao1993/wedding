@@ -9,6 +9,11 @@ function Sidebar () {
     document.body.classList.toggle('slide');
   }
 
+  const closeSideBar = ()=>{
+    setShow(false);
+    document.body.classList.remove('slide')
+  }
+
 
 
   return (
@@ -18,7 +23,7 @@ function Sidebar () {
       </a>
       <aside id='oliven-aside'>
         <div className='oliven-logo'>
-          <a href='/'>
+          <a href='/' onClick={closeSideBar}>
             <img src={Logo} alt='' />
             <span>
               Ngọc Quý <small>&</small> Ngọc Hảo
@@ -26,28 +31,28 @@ function Sidebar () {
             <h6>14.01.2024</h6>
           </a>
         </div>
-        <nav className='oliven-main-menu'>
+        <nav className='oliven-main-menu' onClick={closeSideBar}>
           <ul>
             <li>
-              <a href='#home'>Home</a>
+              <a href='#home' onClick={closeSideBar}>Home</a>
             </li>
             <li>
-              <a href='#couple'>Couple</a>
+              <a href='#couple' onClick={closeSideBar}>Couple</a>
             </li>
             {/* <li>
               <a href='#story'>Our Story</a>
             </li> */}
             <li>
-              <a href='#organization'>Organization</a>
+              <a href='#organization' onClick={closeSideBar}>Organization</a>
             </li>
             <li>
-              <a href='#gallery'>Gallery</a>
+              <a href='#gallery' onClick={closeSideBar}>Gallery</a>
             </li>
             <li>
-              <a href='#whenwhere'>When & Where</a>
+              <a href='#whenwhere' onClick={closeSideBar}>When & Where</a>
             </li>
             <li>
-              <a href='#rsvp'>R.S.V.P</a>
+              <a href='#rsvp' onClick={closeSideBar}>R.S.V.P</a>
             </li>
           </ul>
         </nav>

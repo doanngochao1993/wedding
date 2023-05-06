@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/wedding-index/static/css/main.576399ad.chunk.css",
+    "main.js": "/wedding-index/static/js/main.2b64b9f0.chunk.js",
+    "main.js.map": "/wedding-index/static/js/main.2b64b9f0.chunk.js.map",
+    "runtime-main.js": "/wedding-index/static/js/runtime-main.24452af1.js",
+    "runtime-main.js.map": "/wedding-index/static/js/runtime-main.24452af1.js.map",
+    "static/js/2.3a92e1df.chunk.js": "/wedding-index/static/js/2.3a92e1df.chunk.js",
+    "static/js/2.3a92e1df.chunk.js.map": "/wedding-index/static/js/2.3a92e1df.chunk.js.map",
+    "static/js/3.58883509.chunk.js": "/wedding-index/static/js/3.58883509.chunk.js",
+    "static/js/3.58883509.chunk.js.map": "/wedding-index/static/js/3.58883509.chunk.js.map",
+    "index.html": "/wedding-index/index.html",
+    "static/css/main.576399ad.chunk.css.map": "/wedding-index/static/css/main.576399ad.chunk.css.map",
+    "static/js/2.3a92e1df.chunk.js.LICENSE.txt": "/wedding-index/static/js/2.3a92e1df.chunk.js.LICENSE.txt",
+    "static/media/1.bfef68ef.jpg": "/wedding-index/static/media/1.bfef68ef.jpg",
+    "static/media/2.922e1d93.jpg": "/wedding-index/static/media/2.922e1d93.jpg",
+    "static/media/3.d4285543.jpg": "/wedding-index/static/media/3.d4285543.jpg",
+    "static/media/4.7b0d0492.jpg": "/wedding-index/static/media/4.7b0d0492.jpg",
+    "static/media/5.2be398de.jpg": "/wedding-index/static/media/5.2be398de.jpg",
+    "static/media/6.b95a4877.jpg": "/wedding-index/static/media/6.b95a4877.jpg",
+    "static/media/index.css": "/wedding-index/static/media/wedding-logo.775fc009.png",
+    "static/media/bride.e422e672.JPG": "/wedding-index/static/media/bride.e422e672.JPG",
+    "static/media/groom.894fd376.JPG": "/wedding-index/static/media/groom.894fd376.JPG",
+    "static/media/logo.c89c62cf.png": "/wedding-index/static/media/logo.c89c62cf.png",
+    "static/media/story.a3dfdb0f.jpg": "/wedding-index/static/media/story.a3dfdb0f.jpg",
+    "static/media/where-1.72bfde4a.jpg": "/wedding-index/static/media/where-1.72bfde4a.jpg",
+    "static/media/where-2.1f12a5cd.jpg": "/wedding-index/static/media/where-2.1f12a5cd.jpg",
+    "static/media/where-3.b0a204f7.jpg": "/wedding-index/static/media/where-3.b0a204f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24452af1.js",
+    "static/js/2.3a92e1df.chunk.js",
+    "static/css/main.576399ad.chunk.css",
+    "static/js/main.2b64b9f0.chunk.js"
+  ]
+}
